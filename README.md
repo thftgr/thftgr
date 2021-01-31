@@ -2,7 +2,8 @@
 
 Backend
 
-<img src="https://www.nicepng.com/png/full/264-2641184_111-kb-png-golang-logo.png" alt="Golang" width="50"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" width="50">
+<img src="https://www.nicepng.com/png/full/264-2641184_111-kb-png-golang-logo.png" alt="Golang" width="50"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" width="50"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="docker" width="50"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" width="50">
+
 
 Frontend
 

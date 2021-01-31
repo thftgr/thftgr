@@ -18,5 +18,4 @@
 
 # IDE 
 
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" alt="intellij" height="80">
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/goland_93948.png" alt="goland" height="80">
+<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" alt="intellij" height="80"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/goland_93948.png" alt="goland" height="80">

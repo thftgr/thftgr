@@ -13,5 +13,5 @@
 # Database
 
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="Mysql" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" alt="mongoDB" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" alt="mongoDB" height="80">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="Mysql" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" alt="mongoDB" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" alt="mongoDB" height="80">
 

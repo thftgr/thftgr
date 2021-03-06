@@ -2,7 +2,7 @@
 
 # Backend
 
-<img src="https://www.nicepng.com/png/full/264-2641184_111-kb-png-golang-logo.png" alt="Golang" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" height="80"> <img src="https://icon-icons.com/downloadimage.php?id=160734&root=2648/SVG/&file=logo_aws_icon_160734.svg" alt="aws" height="80">
+<img src="https://www.nicepng.com/png/full/264-2641184_111-kb-png-golang-logo.png" alt="Golang" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" height="80"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" alt="aws" height="80">
 
 
 

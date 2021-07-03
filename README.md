@@ -20,3 +20,6 @@
 # IDE 
 
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" alt="intellij" height="80"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/goland_93948.png" alt="goland" height="80">
+
+![Metrics](https://metrics.lecoq.io/Nerina1241?template=classic&isocalendar=1&languages=1&pagespeed=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&pagespeed.url=nerina.pw&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FSeoul)
+

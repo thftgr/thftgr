@@ -1,5 +1,5 @@
 
-
+[![Discord](https://discord.c99.nl/widget/theme-4/368620104365244418.png)](http://discord.com/users/368620104365244418)
 # Backend
 
 <img src="https://www.nicepng.com/png/full/264-2641184_111-kb-png-golang-logo.png" alt="Golang" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" height="80"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" alt="aws" height="80">
@@ -21,5 +21,4 @@
 
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" alt="intellij" height="80"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/goland_93948.png" alt="goland" height="80">
 
-![Metrics](https://metrics.lecoq.io/thftgr?template=classic&isocalendar=1&languages=1&pagespeed=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FSeoul)
 

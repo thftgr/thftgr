@@ -2,8 +2,7 @@
 [![Discord](https://discord.c99.nl/widget/theme-4/368620104365244418.png)](http://discord.com/users/368620104365244418)
 # Backend
 
-<img src="https://www.nicepng.com/png/full/264-2641184_111-kb-png-golang-logo.png" alt="Golang" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" height="80"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" alt="aws" height="80">
-
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" alt="Golang" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" height="80"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="springboot" height="80"> 
 
 
 # Frontend

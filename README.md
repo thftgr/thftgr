@@ -1,7 +1,7 @@
 
 [![Discord](https://discord.c99.nl/widget/theme-4/368620104365244418.png)](http://discord.com/users/368620104365244418)
 # language
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" alt="Golang" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" height="80">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" alt="Golang" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" height="80">
 
 
 # Framework

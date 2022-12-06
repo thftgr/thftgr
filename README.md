@@ -17,7 +17,7 @@
 <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" height="80">
 
 # Database
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="Mysql" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" alt="mariaDB" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongoDB" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" alt="Redis" height="80"> <img src="https://img.icons8.com/flat-round/2x/influxdb.png" alt="InfluxDB" height="80"> <img src="https://img.icons8.com/color/512/oracle-logo.png" alt="oracle" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgresql" height="80"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="Mysql" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" alt="mariaDB" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongoDB" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_wordmark_logo_icon_146369.png" alt="Redis" height="80"> <img src="https://img.icons8.com/flat-round/2x/influxdb.png" alt="InfluxDB" height="80"> <img src="https://img.icons8.com/color/512/oracle-logo.png" alt="oracle" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgresql" height="80"> 
 
 
 # IDE 

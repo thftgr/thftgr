@@ -12,7 +12,7 @@
 # Using Software
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" height="80"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png" alt="grafana" height="80"> 
 
-#Cloud
+# Cloud
 <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" height="80">
 
 # Database

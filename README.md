@@ -4,9 +4,10 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" alt="Golang" height="80"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png" alt="java" height="80">
 
 
-# Framework
+# Framework / other
 <img src="https://cdn.labstack.com/images/echo-logo.svg"
- alt="echo" height="80"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="springboot" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="reactjs" height="80">
+ alt="echo" height="80"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="springboot" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="reactjs" height="80"> <img src="https://img.icons8.com/ios/512/mybatis.png" alt="mybatis" height="80"> <img src="https://velog.velcdn.com/images/ililil9482/post/ba0b3945-28a6-4a95-a749-a79a1d3e24ba/image.png" alt="jpa" height="80">
+
 
 
 # Using Software
@@ -17,8 +18,6 @@
 
 # Database
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="Mysql" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" alt="mariaDB" height="80"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" alt="mongoDB" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" alt="Redis" height="80"> <img src="https://img.icons8.com/flat-round/2x/influxdb.png" alt="InfluxDB" height="80">
-
-
 
 
 # IDE 

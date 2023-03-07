@@ -11,7 +11,7 @@
 
 
 # Using Software
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" height="80"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" alt="grafana" height="80"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" height="80"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="nginx" height="80"> <img src="https://img.icons8.com/color/256/grafana.png" alt="grafana" height="80"> 
 
 # Cloud
 <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" height="80">
